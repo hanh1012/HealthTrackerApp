@@ -1,0 +1,27 @@
+# Node.js (ReactJS)
+node_modules/
+build/
+dist/
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java (SpringMVC)
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+nbproject/
+.vscode/
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp
